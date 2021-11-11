@@ -1,4 +1,4 @@
 # Appgyver2Kyma
 
-Deploy an Appgyver application to Kyma Runtime
+Deploy an Appgyver sample application to Kyma Runtime
 
